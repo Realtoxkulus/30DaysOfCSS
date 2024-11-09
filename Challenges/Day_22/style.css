@@ -72,7 +72,7 @@ right: calc(80px * var(--i));
             0 0 0 8px rgba(134,255,0,.1);
 }
 .brilho span:nth-child(3n + 3):before {
-  background: rgb(129, 233, 10);
+  background: rgb(141, 178, 220);
   box-shadow: 0 0 20px rgba(134,255,0,1),
             0 0 40px rgba(134,255,0,1),
             0 0 60px rgba(134,255,0,1),
